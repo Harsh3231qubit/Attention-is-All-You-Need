@@ -3,10 +3,11 @@
 📄Paper link: Attention Is All You Need (arXiv:1706.03762)
 
 📂 This Repo Includes
+
      ✅ Encoder implementation in PyTorch with explanations of critical concepts.
-     
+          
      🏘️ A dataset on which a recommendation program was built.
-     
+          
      🤖 An apartment recommendation program using a custom Encoder built from scratch in PyTorch.
 
 
