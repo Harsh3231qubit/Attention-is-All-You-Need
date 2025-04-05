@@ -1,6 +1,6 @@
 # Basic Implementation of Encoder of Attention Transformer (Attention Is All You Need)
 
-📄Paper link: Attention Is All You Need (arXiv:1706.03762)
+📄Paper link: Attention Is All You Need -> arXiv:1706.03762
 
 📂 This Repo Includes
 
